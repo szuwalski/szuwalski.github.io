@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Quantitative ecology"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,14 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Stock assessment and MSE [are things I like to do](https://github.com/szuwalski/snow_2023_9). 
+I'm a quantitative ecologist at the Alaska Fishery Science Center (NOAA) in Seattle and an affiliate professor at the University of Washington in the School of Aquatic and Fishery Sciences (SAFS). The core of my research is natural resource management, population dynamics modeling, and climate change impacts in the oceans. I sit on the Crab Plan Team for the North Pacific Fisheries Management Council that provides science-based advice to manage crab fisheries in the Bering Sea.
 
-Bering Sea ecosystem
-======
-I apply methods in the [Bering Sea](https://github.com/szuwalski/snow_down).
+I can take post-docs through NOAA or UW and sit on graduate committees at UW.
 
-Global fisheries
-======
-I also like thinking about [challenges in managing global fisheries](https://github.com/szuwalski/productivity_problem).
+
 
 
