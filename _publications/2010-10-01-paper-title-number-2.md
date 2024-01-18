@@ -12,5 +12,7 @@ In these examples, the conservation gain (i.e. biomass in the ocean) of maintain
 
 ![figure1](https://szuwalski.github.io/files/productivity_fig.png)
 
+Figure catpion. 
+
 [Download paper here](http://academicpages.github.io/files/Szuwalski 2022 unintended.pdf)
 
