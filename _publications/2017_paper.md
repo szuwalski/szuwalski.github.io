@@ -1,5 +1,5 @@
 ---
-title: "Climate change and the future productivity and distribution of Bering Sea crab"
+title: "High fisheries catches via trophic cascades in China"
 collection: publications
 permalink: /publication/2017_paper
 excerpt: 'This paper models the East China Sea ecosystem and projects the impacts of potential fisheries reform.'
