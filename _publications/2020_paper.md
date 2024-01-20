@@ -2,7 +2,7 @@
 title: "Marine seafood production via intense exploitation and cultivation in China: cost, benefits, and risks"
 collection: publications
 permalink: /publication/2020_paper
-excerpt: 'This paper identifies relationships between environmental variables and recruitment and distribution of Tanner, snow, and red king crab in the Bering Sea. It then projects the productivity and distribution under climate change scenarios.'
+excerpt: 'China is the largest producer of seafood globally. This paper examines the costs, benefits, and risks of their production strategies.'
 date: 2020-10-01
 venue: 'Plos ONE'
 ---
