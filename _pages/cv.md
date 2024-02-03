@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[click through to CV](http://academicpages.github.io/files/CV_szuwalski.pdf)
+[click through to CV](http://szuwalski.github.io/files/CV_szuwalski.pdf)
