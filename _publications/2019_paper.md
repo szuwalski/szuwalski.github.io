@@ -13,5 +13,5 @@ Abstract: Free et al. (Reports, 1 March 2019, p. 979) linked sea surface tempera
 ![figure1](https://szuwalski.github.io/files/msy.png)
 
 
-[Download paper here](http://academicpages.github.io/files/Szuwalski 2019 msy.pdf)
+[Download paper here](http://szuwalski.github.io/files/Szuwalski 2019 msy.pdf)
 

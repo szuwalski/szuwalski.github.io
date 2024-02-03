@@ -13,5 +13,5 @@ In these examples, the conservation gain (i.e. biomass in the ocean) of maintain
 
 Figure caption. 
 
-[Download paper here](http://academicpages.github.io/files/Szuwalski 2022 unintended.pdf)
+[Download paper here](http://szuwalski.github.io/files/Szuwalski 2022 unintended.pdf)
 

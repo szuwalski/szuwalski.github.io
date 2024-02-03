@@ -11,5 +11,5 @@ Abstract: The fishery for snow crab in the eastern Bering Sea was declared overf
 ![figure1](https://szuwalski.github.io/files/sim.png)
 
 
-[Download paper here](http://academicpages.github.io/files/Szuwalski 2012 sim.pdf)
+[Download paper here](http://szuwalski.github.io/files/Szuwalski 2012 sim.pdf)
 

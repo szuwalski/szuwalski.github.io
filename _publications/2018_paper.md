@@ -12,5 +12,5 @@ Abstract: Retrospective patterns are consistent directional changes in assessmen
 
 Figure caption. 
 
-[Download paper here](http://academicpages.github.io/files/Szuwalski 2018 retro.pdf)
+[Download paper here](http://szuwalski.github.io/files/Szuwalski 2018 retro.pdf)
 

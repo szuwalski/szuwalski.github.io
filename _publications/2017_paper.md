@@ -12,5 +12,5 @@ Abstract: Indiscriminate and intense fishing has occurred in many marine ecosyst
 
 Figure caption. 
 
-[Download paper here](http://academicpages.github.io/files/Szuwalski 2017 trophic.pdf)
+[Download paper here](http://szuwalski.github.io/files/Szuwalski 2017 trophic.pdf)
 

@@ -12,5 +12,5 @@ Abstract: Assumptions about the future productivity of a stock are necessary to 
 
 Figure caption. 
 
-[Download paper here](http://academicpages.github.io/files/Szuwalski 2015 recruits.pdf)
+[Download paper here](http://szuwalski.github.io/files/Szuwalski 2015 recruits.pdf)
 

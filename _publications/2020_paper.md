@@ -12,5 +12,5 @@ Abstract: Identifying strategies to maintain seafood supply is central to global
 
 Figure caption. 
 
-[Download paper here](http://academicpages.github.io/files/Szuwalski 2020 china.pdf)
+[Download paper here](http://szuwalski.github.io/files/Szuwalski 2020 china.pdf)
 

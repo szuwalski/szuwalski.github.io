@@ -12,5 +12,5 @@ Abstract: Crab populations in the eastern Bering Sea support some of the most va
 
 Figure caption. 
 
-[Download paper here](http://academicpages.github.io/files/Szuwalski 2021 climate crab.pdf)
+[Download paper here](http://szuwalski.github.io/files/Szuwalski 2021 climate crab.pdf)
 

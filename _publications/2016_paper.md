@@ -12,5 +12,5 @@ Abstract: The potential influence of climate change on the future distribution a
 
 Figure caption. 
 
-[Download paper here](http://academicpages.github.io/files/Szuwalski 2016 nonstationary.pdf)
+[Download paper here](http://szuwalski.github.io/files/Szuwalski 2016 nonstationary.pdf)
 

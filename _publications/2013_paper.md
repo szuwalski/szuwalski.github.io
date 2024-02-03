@@ -8,5 +8,5 @@ venue: 'PNAS'
 ---
 The paper is short, just go have a look.
 
-[Download paper here](http://academicpages.github.io/files/Szuwalski 2013 production.pdf)
+[Download paper here](http://szuwalski.github.io/files/Szuwalski 2013 production.pdf)
 
