@@ -6,9 +6,6 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Stock assessment"
     url: /stockassessment/  
     
