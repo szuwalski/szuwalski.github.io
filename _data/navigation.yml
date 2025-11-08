@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Current projects"
+    url: /cur_proj/
+    
   - title: "Publications"
     url: /publications/
 
@@ -9,3 +12,5 @@ main:
   - title: "Stock assessment"
     url: /stockassessment/  
     
+  - title: "Errata"
+    url: /stockassessment/ 

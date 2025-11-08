@@ -10,7 +10,7 @@ Abstract: Snow crab are an iconic species in the Bering Sea that support an econ
 
 ![figure1](https://szuwalski.github.io/files/collapse_fig.png)
 
-Figure caption:
+Figure caption: Spatial distribution of snow crab in 2018 to 2021 (A); the cold pool and ice extent (B); abundance of male snow crab over time (C), and relative sizes over time (D).
 
 [Download paper here](http://szuwalski.github.io/files/Szuwalski 2023 collapse of snow crab combined.pdf)
 
