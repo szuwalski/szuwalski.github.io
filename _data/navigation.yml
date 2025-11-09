@@ -12,5 +12,8 @@ main:
   - title: "Stock assessment"
     url: /stockassessment/  
     
+  - title: "Projection tool"
+    url: /proj_tool/  
+    
   - title: "Errata"
-    url: /stockassessment/ 
+    url: /errata/ 
