@@ -12,7 +12,7 @@ main:
   - title: "Stock assessment"
     url: /stockassessment/  
     
-  - title: "Projection tool"
+  - title: "Fishery projections"
     url: /proj_tool/  
     
   - title: "Errata"

@@ -23,7 +23,7 @@ There is currently no fishery for red king crab around the Pribilof Islands, so 
 
 ![figure2](https://szuwalski.github.io/files/pirkc_natl.png)
 
-Figure caption: Numbers at carapace width of male red king crab over time by district (BB = Bristol Bay, NORTH = Northern district, PRIB = Pribilof Islands).
+Figure caption: Numbers at carapace length of male red king crab over time by district (BB = Bristol Bay, NORTH = Northern district, PRIB = Pribilof Islands).
 
 ## Alaskan forage fish (2021-present)
 
