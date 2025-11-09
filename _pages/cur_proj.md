@@ -7,11 +7,11 @@ author_profile: true
 
 ## Global snow crab dynamics under climate change
 
-Snow crab are an ecologically and economically important species in higher latitudes in the northern hemisphere. In total, seven countries harvest ~200,000 tonnes each year. Snow crab are associated with cold bottom waters and recently the Bering Sea population collapsed after a marine heatwave. The goals of this project are:
+Snow crab are an ecologically and economically important species in higher latitudes in the northern hemisphere. In total, seven countries harvest ~200,000 tonnes each year on average. Snow crab are associated with cold bottom waters and recently the Bering Sea population collapsed after a marine heatwave. The goals of this project are:
 
  - Collaborate with international snow crab scientists to put all available data into a common population dynamics framework
- - Identify relationships between estimates of recruitment, mortality, and maturity with environmental and demographic covariates
- - Identify conditions under which collapse is likely
+ - Identify shared relationships between estimates of recruitment, mortality, and maturity with environmental and demographic covariates
+ - Identify conditions under which population collapse is likely
  - Generalize lessons learned from snow crab management for other resources under climate stress
  
 ![figure1](https://szuwalski.github.io/files/snow_globe.png) 
@@ -20,10 +20,10 @@ Figure caption: Catches by country (inset) from FAO landings reports and the loc
 
 ## Mortality events in eastern Bering Sea crab 
 
-Crab are some of the most abundant species in the Bering Se and support fisheries historically values at over $300 million ex-vessel per year. Boom and bust dynamics are common and have resulted in fisheries closures for several stocks. In this project we:
+Crab are some of the most abundant species in the Bering Sea and support fisheries historically valued at over $300 million ex-vessel per year. Boom and bust dynamics are common and have resulted in fisheries closures for several stocks in the past few decades. In this project we:
 
  - Model variability in mortality for six species of crab in the Bering Sea using size-structured population dynamics models
- - Explain that variability using GAMs with density, ice extent, size, and temperature as covariates
+ - Explain variability in mortality using GAMs with density, ice extent, size, and temperature as covariates
  - Develop 'ecological histories' to describe the observed dynamics for both heavily and lightly fished species
  - Identify disconnects between current management paradigms, the observed dynamics, and stated goals of management
  

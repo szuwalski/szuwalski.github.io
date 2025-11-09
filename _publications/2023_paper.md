@@ -2,7 +2,7 @@
 title: "The collapse of eastern Bering Sea snow crab"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'The snow crab population collapsed in 2021.'
+excerpt: 'The snow crab population collapsed in 2021 after a marine heatwave. This paper describes the process we used to understand why the population collapsed.'
 date: 2023-10-20
 venue: 'Science'
 ---
