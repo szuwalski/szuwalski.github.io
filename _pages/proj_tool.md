@@ -5,8 +5,6 @@ permalink: /proj_tool/
 author_profile: true
 ---
 
-# Interactive Model Dashboard
-
 Below is an embedded Shiny app. If it doesn’t load, [click here to open it in a new tab](https://szuwalski.shinyapps.io/snow_pro_shiny/).
 
 <iframe src="https://szuwalski.shinyapps.io/snow_pro_shiny/"
